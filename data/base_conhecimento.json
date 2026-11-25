@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Emitir Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "ctps",
+      "trabalho",
+      "emprego"
+    ],
+    "resposta": "Pode ser emitida pelo aplicativo Carteira de Trabalho Digital ou no portal Gov.br com conta gov.br.",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "acessos": 0
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Solicitar Segunda Via do RG",
+    "palavras_chave": [
+      "rg",
+      "identidade",
+      "segunda via",
+      "documento"
+    ],
+    "resposta": "O agendamento e os requisitos variam conforme o estado; consulte o portal oficial do seu estado ou Gov.br.",
+    "fonte": "https://www.gov.br",
+    "acessos": 0
+  },
+  {
+    "id": 3,
+    "categoria": "Saude",
+    "titulo": "Encontrar a UBS Mais Proxima",
+    "palavras_chave": [
+      "ubs",
+      "posto de saude",
+      "vacina",
+      "consulta",
+      "saude"
+    ],
+    "resposta": "A UBS atende consultas basicas, vacinacao e acompanhamento de saude pelo SUS.",
+    "fonte": "https://www.gov.br/saude",
+    "acessos": 0
+  },
+  {
+    "id": 4,
+    "categoria": "Saude",
+    "titulo": "Fazer o Cartao SUS",
+    "palavras_chave": [
+      "cartao sus",
+      "sus",
+      "cadastro sus"
+    ],
+    "resposta": "O cadastro no SUS pode ser consultado no aplicativo Meu SUS Digital ou realizado em uma unidade de saude.",
+    "fonte": "https://www.gov.br/saude",
+    "acessos": 0
+  },
+  {
+    "id": 5,
+    "categoria": "Transporte",
+    "titulo": "Solicitar o Bilhete Unico",
+    "palavras_chave": [
+      "bilhete unico",
+      "bilhete",
+      "onibus",
+      "transporte"
+    ],
+    "resposta": "Pode ser solicitado e gerenciado pelos canais oficiais da SPTrans.",
+    "fonte": "https://www.sptrans.com.br",
+    "acessos": 0
+  },
+  {
+    "id": 6,
+    "categoria": "Direitos",
+    "titulo": "Consultar Seguro-Desemprego",
+    "palavras_chave": [
+      "seguro desemprego",
+      "seguro",
+      "demissao",
+      "beneficio"
+    ],
+    "resposta": "A consulta de parcelas e requisitos esta disponivel no portal Gov.br e no aplicativo Carteira de Trabalho Digital.",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "acessos": 0
+  }
+]

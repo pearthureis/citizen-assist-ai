@@ -1,0 +1,27 @@
+{
+  "busao": [
+    "onibus",
+    "bilhete",
+    "transporte"
+  ],
+  "postinho": [
+    "ubs",
+    "posto de saude",
+    "saude"
+  ],
+  "vacino": [
+    "vacina"
+  ],
+  "trampo": [
+    "emprego",
+    "trabalho"
+  ],
+  "identidade": [
+    "rg",
+    "documento"
+  ],
+  "seguro": [
+    "seguro desemprego",
+    "beneficio"
+  ]
+}
